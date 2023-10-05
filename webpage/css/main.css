@@ -78,12 +78,7 @@ body:after {
 .synopsis1 {
     color: red;
     padding-top: 100px;
-    font-size: 10ex;
-}
-
-.synopsis2 {
-    color: red;
-    font-size: 5ex;
+    font-size: 100px;
 }
 
 #story {
@@ -126,10 +121,6 @@ body:after {
 
 .Others {
     text-align: center;
-}
-
-.tips1 {
-    color: rgb(221, 1, 221);
 }
 
 .others1 {
